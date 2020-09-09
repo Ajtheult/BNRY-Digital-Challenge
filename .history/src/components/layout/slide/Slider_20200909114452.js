@@ -46,7 +46,9 @@ export default class MainSlider extends Component {
               className="slider-height"
             />
             <Carousel.Caption>
-              <p>The storm trooper getting his weapons reloaded</p>
+              <p>
+                Praesent commodo cursus magna, vel scelerisque nisl consectetur.
+              </p>
             </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
@@ -57,7 +59,9 @@ export default class MainSlider extends Component {
             />
 
             <Carousel.Caption>
-              <p>Looks like we know who won</p>
+              <p>
+                Praesent commodo cursus magna, vel scelerisque nisl consectetur.
+              </p>
             </Carousel.Caption>
           </Carousel.Item>
         </Carousel>

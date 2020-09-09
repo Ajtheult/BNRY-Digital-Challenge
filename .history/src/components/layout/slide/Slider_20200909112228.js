@@ -14,7 +14,7 @@ export default class MainSlider extends Component {
               className="slider-height"
             />
             <Carousel.Caption>
-              <p>Our main storm trooper ~ the leader of the team</p>
+              <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
             </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
@@ -25,7 +25,7 @@ export default class MainSlider extends Component {
             />
 
             <Carousel.Caption>
-              <p>See-Threepio ~ The main foil to our antagonist </p>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
             </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
@@ -36,7 +36,35 @@ export default class MainSlider extends Component {
             />
 
             <Carousel.Caption>
-              <p>The city where the story is set</p>
+              <p>
+                Praesent commodo cursus magna, vel scelerisque nisl consectetur.
+              </p>
+            </Carousel.Caption>
+          </Carousel.Item>
+          <Carousel.Item>
+            <img
+              src="https://images.unsplash.com/photo-1464423163665-75e82891f301?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
+              alt="img"
+              className="slider-height"
+            />
+
+            <Carousel.Caption>
+              <p>
+                Praesent commodo cursus magna, vel scelerisque nisl consectetur.
+              </p>
+            </Carousel.Caption>
+          </Carousel.Item>
+          <Carousel.Item>
+            <img
+              src="https://images.unsplash.com/photo-1538151121578-94e41535161b?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60"
+              alt="img"
+              className="slider-height"
+            />
+
+            <Carousel.Caption>
+              <p>
+                Praesent commodo cursus magna, vel scelerisque nisl consectetur.
+              </p>
             </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
@@ -46,18 +74,9 @@ export default class MainSlider extends Component {
               className="slider-height"
             />
             <Carousel.Caption>
-              <p>The storm trooper getting his weapons reloaded</p>
-            </Carousel.Caption>
-          </Carousel.Item>
-          <Carousel.Item>
-            <img
-              src="https://images.unsplash.com/photo-1586136194012-35ceaddbd773?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60"
-              alt="img"
-              className="slider-height"
-            />
-
-            <Carousel.Caption>
-              <p>Looks like we know who won</p>
+              <p>
+                Praesent commodo cursus magna, vel scelerisque nisl consectetur.
+              </p>
             </Carousel.Caption>
           </Carousel.Item>
         </Carousel>

@@ -57,7 +57,9 @@ export default class MainSlider extends Component {
             />
 
             <Carousel.Caption>
-              <p>Looks like we know who won</p>
+              <p>
+                Praesent commodo cursus magna, vel scelerisque nisl consectetur.
+              </p>
             </Carousel.Caption>
           </Carousel.Item>
         </Carousel>

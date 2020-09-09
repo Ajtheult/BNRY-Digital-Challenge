@@ -41,12 +41,15 @@ export default class MainSlider extends Component {
           </Carousel.Item>
           <Carousel.Item>
             <img
-              src="https://images.unsplash.com/photo-1574047473179-a73921fc1eb6?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+              src="https://images.unsplash.com/photo-1464423163665-75e82891f301?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
               alt="img"
               className="slider-height"
             />
+
             <Carousel.Caption>
-              <p>The storm trooper getting his weapons reloaded</p>
+              <p>
+                Praesent commodo cursus magna, vel scelerisque nisl consectetur.
+              </p>
             </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
@@ -57,7 +60,21 @@ export default class MainSlider extends Component {
             />
 
             <Carousel.Caption>
-              <p>Looks like we know who won</p>
+              <p>
+                Praesent commodo cursus magna, vel scelerisque nisl consectetur.
+              </p>
+            </Carousel.Caption>
+          </Carousel.Item>
+          <Carousel.Item>
+            <img
+              src="https://images.unsplash.com/photo-1574047473179-a73921fc1eb6?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+              alt="img"
+              className="slider-height"
+            />
+            <Carousel.Caption>
+              <p>
+                Praesent commodo cursus magna, vel scelerisque nisl consectetur.
+              </p>
             </Carousel.Caption>
           </Carousel.Item>
         </Carousel>
