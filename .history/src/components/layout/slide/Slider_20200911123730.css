@@ -4,6 +4,6 @@ h4 {
   height: 35px;
 }
 
-.carousel-arrow:hover {
-  color: black;
+.carousel-next:hover {
+  font-size: large;
 }

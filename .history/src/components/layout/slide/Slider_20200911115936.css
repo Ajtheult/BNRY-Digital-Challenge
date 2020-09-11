@@ -1,0 +1,9 @@
+.slider-height {
+  height: auto;
+  width: 100%;
+}
+
+.first-div {
+  background-image: url(https://images.unsplash.com/photo-1574876999803-955c688d6581?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=60);
+  height: 500px;
+}

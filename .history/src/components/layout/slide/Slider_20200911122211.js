@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import Slider from "infinite-react-carousel";
-import "./Slider.css";
 
 export default class MainSlider extends Component {
   render() {
@@ -18,7 +17,6 @@ export default class MainSlider extends Component {
               alt="img"
               className="slider-height"
             />
-            <h4>A late teen aesthetic</h4>
           </div>
           <div>
             <img
@@ -26,7 +24,6 @@ export default class MainSlider extends Component {
               className="slider-height"
               alt="img"
             />
-            <h4>A computer with a beautiful ocean wallpaper</h4>
           </div>
           <div>
             <img
@@ -34,7 +31,6 @@ export default class MainSlider extends Component {
               alt="img"
               className="slider-height"
             />
-            <h4>A computer next to a city view</h4>
           </div>
           <div>
             <img
@@ -42,7 +38,6 @@ export default class MainSlider extends Component {
               alt="img"
               className="slider-height"
             />
-            <h4>A computer and laptop with a very colorful wallpaper </h4>
           </div>
           <div>
             <img
@@ -50,7 +45,6 @@ export default class MainSlider extends Component {
               alt="img"
               className="slider-height"
             />
-            <h4>A minimalist layout with very warm colours</h4>
           </div>
         </Slider>
       </div>

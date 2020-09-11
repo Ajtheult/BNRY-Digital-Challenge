@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import Slider from "infinite-react-carousel";
-import "./Slider.css";
 
 export default class MainSlider extends Component {
   render() {
@@ -18,7 +17,6 @@ export default class MainSlider extends Component {
               alt="img"
               className="slider-height"
             />
-            <h4>A late teen aesthetic</h4>
           </div>
           <div>
             <img
@@ -26,31 +24,27 @@ export default class MainSlider extends Component {
               className="slider-height"
               alt="img"
             />
-            <h4>A computer with a beautiful ocean wallpaper</h4>
           </div>
           <div>
             <img
-              src="https://images.unsplash.com/photo-1598978270333-62571dd762e9?ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80"
+              src="https://images.unsplash.com/photo-1493928841026-e1ab0a590a61?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60"
               alt="img"
               className="slider-height"
             />
-            <h4>A computer next to a city view</h4>
           </div>
           <div>
             <img
-              src="https://images.unsplash.com/photo-1572985919466-6d00864965c8?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"
+              src="https://images.unsplash.com/photo-1574047473179-a73921fc1eb6?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
               alt="img"
               className="slider-height"
             />
-            <h4>A computer and laptop with a very colorful wallpaper </h4>
           </div>
           <div>
             <img
-              src="https://images.unsplash.com/photo-1588200908342-23b585c03e26?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"
+              src="https://images.unsplash.com/photo-1586136194012-35ceaddbd773?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60"
               alt="img"
               className="slider-height"
             />
-            <h4>A minimalist layout with very warm colours</h4>
           </div>
         </Slider>
       </div>
